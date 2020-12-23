@@ -1,2 +1,3 @@
 # gauss_exercise
-Exercise from udacity
+Exercise from udacity data science course
+
